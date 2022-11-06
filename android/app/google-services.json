@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410038553901",
+    "project_id": "casinotraffbasa",
+    "storage_bucket": "casinotraffbasa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410038553901:android:ef1ba84c3a4ead451e57a4",
+        "android_client_info": {
+          "package_name": "com.example.casino_roulette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410038553901-bhjup21nbcc1dtmhdkj1jql2p7rms6q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwYDDtDgDs7hD_6Lb-Uo-TdLgFNvVvGtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410038553901-bhjup21nbcc1dtmhdkj1jql2p7rms6q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
